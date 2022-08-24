@@ -17,7 +17,7 @@ function App() {
     <Router>
           <NavigationBar className = 'navigationBar'/>
            <Routes> 
-                <Route path="/" element = {<Home/>}/>
+                <Route path="/enfactum" element = {<Home/>}/>
                 <Route path="/blog" element={<Blog/>}/>
                 <Route path="/about" element={<About/>} />
                 <Route path="/contact" element= {<ContactUs/>}/>

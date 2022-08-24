@@ -9,7 +9,7 @@ const NavigationBar=() => {
     <>
     <Navbar bg="dark" variant="dark">
         <Container>
-          <Navbar.Brand href="/">
+          <Navbar.Brand href="/enfactum">
             Enfactum
           </Navbar.Brand>
           <Nav className="me-auto">

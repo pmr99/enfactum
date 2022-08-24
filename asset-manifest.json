@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/enfactum/static/css/main.01a71f1b.css",
+    "main.js": "/enfactum/static/js/main.fbf1f9d5.js",
+    "static/js/787.f79f0d34.chunk.js": "/enfactum/static/js/787.f79f0d34.chunk.js",
+    "static/media/rocket.png": "/enfactum/static/media/rocket.288166bc78dbd4239d2e.png",
+    "static/media/twitter.png": "/enfactum/static/media/twitter.d2395c909cf332d71f17.png",
+    "static/media/about.png": "/enfactum/static/media/about.71759e990f28c1356abe.png",
+    "static/media/linkedin.png": "/enfactum/static/media/linkedin.e9c2c54c3c96d08c235c.png",
+    "static/media/p4.png": "/enfactum/static/media/p4.4c5cfb6636e0e6ad6669.png",
+    "static/media/p5.png": "/enfactum/static/media/p5.67072e390b1d6b2c2638.png",
+    "static/media/p3.png": "/enfactum/static/media/p3.76cdac1e7ae000e6a7b7.png",
+    "static/media/p1.png": "/enfactum/static/media/p1.59e75097f82ecf77d493.png",
+    "static/media/p2.png": "/enfactum/static/media/p2.2fd696acf6666f2087dd.png",
+    "index.html": "/enfactum/index.html",
+    "main.01a71f1b.css.map": "/enfactum/static/css/main.01a71f1b.css.map",
+    "main.fbf1f9d5.js.map": "/enfactum/static/js/main.fbf1f9d5.js.map",
+    "787.f79f0d34.chunk.js.map": "/enfactum/static/js/787.f79f0d34.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01a71f1b.css",
+    "static/js/main.fbf1f9d5.js"
+  ]
+}
